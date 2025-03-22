@@ -6,7 +6,7 @@ import io.cucumber.testng.CucumberOptions;
 		features = "featurefiles",
 		glue={"stepdefinitions","hooks"},
 		monochrome = true,
-		dryRun = true,
+		dryRun = false,
 		plugin = {"html:target/report.html","json:target/report.json"},
 		tags="@Add_to_cart"
 		)

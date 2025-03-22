@@ -19,4 +19,4 @@ Examples:
 |Item|Size|
 |Shirts|42|
 |Heels|41|
-|Bangles|2.8|
+|Bangles|2.4|
